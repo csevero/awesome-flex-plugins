@@ -1,0 +1,21 @@
+{
+  "name": "plugin-simple-filter",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "postinstall": "flex-plugin pre-script-check",
+    "build": "flex-plugin build"
+  },
+  "devDependencies": {
+    "@twilio/flex-ui": "^1",
+    "react-test-renderer": "16.5.2"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "core-js": "^2.6.5",
+    "flex-plugin-scripts": "4.2.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "twilio": "^3.72.0"
+  }
+}
