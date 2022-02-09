@@ -2,7 +2,7 @@
 
 This plugin allow that Agents on Flex can be sent audios to your customers. 
 
-<!-- TODO: ADD plugin images-->
+<img src=".github/images/gif-plugin-record-audio.gif"/>
 
 ## Requisites
 - You need to have a function to handle with files, you can use this folder how example: https://github.com/twilio-labs/plugin-message-media/tree/main/mms-handler/functions
